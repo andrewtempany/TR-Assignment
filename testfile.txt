@@ -1,0 +1,8 @@
+calvin,5,0
+emily,6,0
+andy,9,0
+cal,1,0
+calvin,0,10
+emily,0,-4
+andy,0,4
+charlie,100,0
